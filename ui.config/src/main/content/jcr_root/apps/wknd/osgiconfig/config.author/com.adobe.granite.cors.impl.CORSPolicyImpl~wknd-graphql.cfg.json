@@ -1,6 +1,6 @@
 {
     "alloworigin":[
-      ""
+      "https://author-p149198-e1526968.adobeaemcloud.com"
     ],
     "alloworiginregexp":[
       "http://localhost:.*"
@@ -8,7 +8,9 @@
     "allowedpaths": [
       "/graphql/execute.json.*",
       "/content/_cq_graphql/wknd-shared/endpoint.json",
-      "/content/experience-fragments/.*"
+      "/content/experience-fragments/.*",
+      "/content/dam/.*",
+      "/libs/dam/.*"
     ],
     "supportedheaders": [
       "Origin",

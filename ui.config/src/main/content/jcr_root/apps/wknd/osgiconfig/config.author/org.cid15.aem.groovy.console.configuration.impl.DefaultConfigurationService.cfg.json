@@ -1,0 +1,11 @@
+{
+  "allowedGroups":[
+    "groovy-console-users",
+    "administrators"
+  ],
+  "vanityPathEnabled":true,
+  "allowedScheduledJobsGroups":[
+    "groovy-console-users",
+    "administrators"
+  ]
+}

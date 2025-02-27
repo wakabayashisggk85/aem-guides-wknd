@@ -85,3 +85,5 @@ buildNumber.properties
 ### Node/NPM ###
 node/
 node_modules/
+
+.aio
